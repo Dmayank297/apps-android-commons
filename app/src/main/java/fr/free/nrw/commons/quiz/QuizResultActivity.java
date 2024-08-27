@@ -1,5 +1,4 @@
 package fr.free.nrw.commons.quiz;
-
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -11,14 +10,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-
 import fr.free.nrw.commons.databinding.ActivityQuizResultBinding;
 import java.io.File;
 import java.io.FileOutputStream;
-
 import fr.free.nrw.commons.R;
 import fr.free.nrw.commons.contributions.MainActivity;
 
